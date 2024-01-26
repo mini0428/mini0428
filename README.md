@@ -5,7 +5,7 @@
 
 <div align="center">
   
-#### 👋 Welcome Mini's github  profile!!
+#### 자고 싶습니다
 
 ![Mini0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0428&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0428&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
