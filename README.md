@@ -1,10 +1,7 @@
-<img src="image/garbage_time.svg" align="center"/>
+![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=f0f0f0&text=mini0428s%20World&fontColor=5194F0&animation=twinkling)
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=timeGradient%20&text=Mini0428s%20Dev%20World&fontColor=40E01B&textBg=false&rotate=5&fontAlign=50&animation=fadeIn)
-
-![Mini0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0428&show_icons=true&theme=radical)
+![Mini0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0428&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0428&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ### Hi there 👋
