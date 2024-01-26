@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=soft&height=200&color=timeGradient%20&text=Mini0428s%20Dev%20World&fontColor=40E01B&textBg=false&rotate=5&fontAlign=50&animation=fadeIn)
+
+[![Mini0428's GitHub stats](https://github-readme-stats.vercel.app/api?username=mini0428)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini0428&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 <!--
