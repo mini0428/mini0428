@@ -1,6 +1,8 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=rounded&height=150&color=f0f0f0&text=mini0428s%20World&fontColor=5194F0&animation=twinkling)
+![header]([https://capsule-render.vercel.app/api?type=rounded&height=150&color=f0f0f0&text=mini0428s%20World&fontColor=5194F0&animation=twinkling](https://capsule-render.vercel.app/api?type=rounded&height=235&color=0066ff&text=MINI0428&fontAlign=50&animation=fadeIn&fontAlignY=50&fontSize=60&stroke=ffffff&strokeWidth=2&fontColor=0066ff&section=header&reversal=false&descAlign=0&descAlignY=0&rotate=0
+
+))
 </div>
 
 <div align="center">
