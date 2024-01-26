@@ -22,7 +22,7 @@
   
 #### I’m currently learning ...
   
-<img src="https://img.shields.io/badge/D-5865F2?style=flat&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/S-000000?style=flat&logo=steam&logoColor=white"/>
+<img src="https://img.shields.io/badge/D-5865F2?style=flat&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/S-000000?style=flat&logo=steam&logoColor=white"/> 
 
 </div>
 
