@@ -20,9 +20,9 @@
 
 <div align="center">
   
-#### I’m currently learning ...
+#### 관심이 있는 것들
   
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> **AND** <img src="https://img.shields.io/badge/D-5865F2?style=flat&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/S-000000?style=flat&logo=steam&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/D-5865F2?style=flat&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/S-000000?style=flat&logo=steam&logoColor=white"/> 
 
 </div>
 
