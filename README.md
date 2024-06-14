@@ -5,16 +5,16 @@
 
 <div align="center">
   
-#### "멋있잖아요. 팀을 구하는 팀원이라는 거."
+#### "(푸드득)"
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0428&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0066ff&icon_color=ffffff&text_color=fff&title_color=ffffff&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mini0428&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=888888&icon_color=ffffff&text_color=fff&title_color=ffffff&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=mini0428&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0066ff&icon_color=ffffff&text_color=fff&title_color=ffffFF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=mini0428&show_icons=true&theme=material-palenight&hide_border=true&bg_color=888888&icon_color=ffffff&text_color=fff&title_color=ffffFF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mini0428&theme=react-dark&bg_color=0066ff&hide_border=true&line=ffffFF&color=ffffFF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mini0428&theme=react-dark&bg_color=888888&hide_border=true&line=ffffFF&color=ffffFF" width=94%/>
 </a>
 </div>
 
